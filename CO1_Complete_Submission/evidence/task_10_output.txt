@@ -1,0 +1,21 @@
+One household bill: Rs 950.00
+
+Households: 4000
+Integer paise total: Rs 3800000.00
+Float total:          Rs 3800000.00
+Float minus integer:  Rs 0.00
+
+Households: 60000
+Integer paise total: Rs 57000000.00
+Float total:          Rs 57049360.00
+Float minus integer:  Rs 49360.00
+
+Households: 800000
+Integer paise total: Rs 760000000.00
+Float total:          Rs 764526016.00
+Float minus integer:  Rs 4526016.00
+
+sizeof(int)=4, INT_MAX=2147483647
+sizeof(long)=8, LONG_MAX=9223372036854775807
+sizeof(long long)=8, LLONG_MAX=9223372036854775807
+FLT_MANT_DIG=24, FLT_EPSILON=1.1920929e-07
