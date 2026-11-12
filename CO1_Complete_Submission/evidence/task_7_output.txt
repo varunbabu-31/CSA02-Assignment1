@@ -1,0 +1,7 @@
+5 / 2 = 2 (integer division discards the fraction)
+(double)(5 / 2) = 2.0 (cast happens after division)
+5.0 / 2 = 2.5 (floating-point division)
+0.1 + 0.2 = 0.30000000000000004
+(0.1 + 0.2) == 0.3: false
+(int)3.9 = 3 (conversion truncates toward zero)
+-7 / 2 = -3 (integer division truncates toward zero)
