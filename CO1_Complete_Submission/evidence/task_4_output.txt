@@ -1,0 +1,7 @@
+5 rupees = 500 paise
+SQUARE(5) = 25
+SQUARE(5 + 1) = 36
+MAX(3, 5) = 5
+MAX(side_effect_i++, 10) = 13; i is now 14
+inline square(6) = 36
+inline max(3, 5) = 5
