@@ -1,0 +1,2 @@
+Enter previous meter reading (0-65535): Enter current meter reading (0-65535): Units consumed: 330
+Total bill: Rs 860.00
