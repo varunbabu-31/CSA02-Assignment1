@@ -1,0 +1,2 @@
+Float total: Rs 39.999294281
+Integer paise total: 4000 paise = Rs 40.00
