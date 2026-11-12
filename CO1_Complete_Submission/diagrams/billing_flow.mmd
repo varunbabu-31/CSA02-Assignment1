@@ -1,0 +1,11 @@
+flowchart TD
+    A([Start]) --> B[/Read previous and current readings/]
+    B --> C{Readings in 0..65535?}
+    C -- No --> X[Print invalid reading] --> Z([End])
+    C -- Yes --> D[Calculate modulo 65536 consumption]
+    D --> E{Consumption within plausible limit?}
+    E -- No --> Y[Reject reset or implausible reading] --> Z
+    E -- Yes --> F[Calculate slab charge in paise]
+    F --> G[Add fixed charge]
+    G --> H[/Print units and bill/]
+    H --> Z
