@@ -1,0 +1,7 @@
+Enter annual off-peak energy (Wh): Enter annual peak energy (Wh): Readings per year: 35040
+Base tariff: 225 paise/kWh
+Peak tariff: 20% surcharge
+Off-peak charge: Rs 2.25
+Peak charge: Rs 2.70
+Fixed charge: Rs 50.00
+Total bill: Rs 54.95
