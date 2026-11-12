@@ -1,0 +1,3 @@
+DEBUG: units=150, bill=16250 paise
+Units: 150
+Bill: Rs 162.50
